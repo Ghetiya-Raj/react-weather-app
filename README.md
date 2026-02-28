@@ -44,5 +44,3 @@ This API returns data such as:
 - Wind speed :contentReference[oaicite:0]{index=0}
 
 ---
-
-## 📁 Project Structure (Typical)
